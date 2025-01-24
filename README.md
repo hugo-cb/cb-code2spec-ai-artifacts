@@ -19,7 +19,7 @@ We are using 3 sample projects:
   - Documentation: [Components and Features](cbdash/cbdash_components-and-features.md)
 - **AWS Mainframe Modernization CardDemo** project: a COBOL project.
   - URL: https://github.com/aws-samples/aws-mainframe-modernization-carddemo
-  - Documentation: [Components and Features](aws-mainframe-modernization-carddemo/aws-mainframe-modernization-carddemo_components-and-features.md)
+  - Documentation: [Components and Features](aws-mainframe-modernization-carddemo/aws-mainframe_cobol_-components-and-features.md)
 - **Congressy** project: a Django project for Event Management System.
   - URL: https://github.com/hugoseabra/congressy
   - Documentation: [Components and Features](congressy/congressy_components-and-features.md)
