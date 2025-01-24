@@ -16,12 +16,15 @@ We are using 3 sample projects:
 
 - **CBDash** project: a Django project.
   - URL: "<private>"
+  - CodeGraph: [CBDash Code Graph](cbdash/cbdash_codegraph.html)
   - Documentation: [Components and Features](cbdash/cbdash_components-and-features.md)
 - **AWS Mainframe Modernization CardDemo** project: a COBOL project.
   - URL: https://github.com/aws-samples/aws-mainframe-modernization-carddemo
+  - CodeGraph: [AWS Mainframe Modernization CardDemo Code Graph](aws-mainframe-modernization-carddemo/aws-mainframe_cobol_codegraph.html)
   - Documentation: [Components and Features](aws-mainframe-modernization-carddemo/aws-mainframe_cobol_-components-and-features.md)
 - **Congressy** project: a Django project for Event Management System.
   - URL: https://github.com/hugoseabra/congressy
+  - CodeGraph: [Congressy Code Graph](congressy/congressy_codegraph.html)
   - Documentation: [Components and Features](congressy/congressy_components-and-features.md)
 
 # What You Will Find
